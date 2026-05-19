@@ -9,11 +9,11 @@
 
 :root {
   /* Colors */
-  --bg-primary:    #020617;
-  --bg-secondary:  #0f172a;
-  --accent:        #22c55e;
-  --accent-2:      #16a34a;
-  --accent-grad:   linear-gradient(135deg, #38bdf8 0%, #818cf8 100%);
+  --bg-primary:    #775144;
+  --bg-secondary:  #2a0800;
+  --accent:        #00ff88;
+  --accent-2:      #00cc6a;
+  --accent-grad:   linear-gradient(135deg, #00ff88 0%, #00c2ff 100%);
   --text-primary:  #f1f5f9;
   --text-secondary:#94a3b8;
   --text-muted:    #64748b;
